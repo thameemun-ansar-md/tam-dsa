@@ -8,5 +8,6 @@ public class Main {
         binaryTree.add(10);
         binaryTree.add(11);
         binaryTree.add(9);
+        binaryTree.preOrder();
     }
 }
